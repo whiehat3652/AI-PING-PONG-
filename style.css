@@ -1,0 +1,33 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+display:inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px green;
+}
+
+#start,#status
+{
+    font-size: 22px;
+}
+h4
+{
+    background-color:firebrick;
+    line-height: 2;
+    margin-bottom: 0px;
+}
+canvas
+{
+    box-shadow: 15px 15px 15px rgb(56, 134, 235);
+    border-radius: 10px;
+    margin-top: 30px;
+}
